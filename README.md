@@ -25,6 +25,18 @@ April
 Joe Boutros
 
 
+May
+---
+#### Release Manager
+Ack! We need one! Submit a pull request and signup!
+
+
+June
+----
+#### Release Manager
+Ben Weatherman
+
+
 Potential Speakers
 ------------------
 - Joaquin Casares (DataStax, all kinds of Cassandra info)
