@@ -28,13 +28,13 @@ Joe Boutros
 May
 ---
 #### Release Manager
-Ack! We need one! Submit a pull request and signup!
+Ben Weatherman
 
 
 June
 ----
 #### Release Manager
-Ben Weatherman
+Ack! We need one! Submit a pull request and signup!
 
 
 Potential Speakers
