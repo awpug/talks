@@ -34,7 +34,7 @@ Ben Weatherman
 June
 ----
 #### Release Manager
-Ack! We need one! Submit a pull request and signup!
+Robert Myers
 
 
 Potential Speakers
