@@ -37,6 +37,12 @@ June
 Ack! We need one! Submit a pull request and signup!
 
 
+July
+----
+#### Release Manager
+Robert Myers
+
+
 Potential Speakers
 ------------------
 - Joaquin Casares (DataStax, all kinds of Cassandra info)
