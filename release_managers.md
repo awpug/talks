@@ -56,6 +56,13 @@ Ben Weatherman
 #### Failover
 Jeremy Boyd
 
+#### Speakers
+  - Craig Vyvial [OpenStack-based database as a service](https://github.com/rackspace/reddwarf)
+  - ???? :cake:
+
+#### Sponsor
+[Rackspace](http://rackspace.com)
+
 June
 ----
 #### Release Manager
