@@ -62,4 +62,12 @@ June
 Jeremy Boyd
 
 #### Failover
-???
+Robert Myers
+
+July
+----
+#### Release Manager
+Robert Myers
+
+#### Failover
+???? :cake:
