@@ -77,4 +77,12 @@ July
 Robert Myers
 
 #### Failover
+Josh Marshall
+
+August
+------
+#### Release Manager
+Josh Marshall
+
+#### Failover
 ???? :cake:
