@@ -86,3 +86,18 @@ Josh Marshall
 
 #### Failover
 ???? :cake:
+
+October
+-------
+#### Release Manager
+Joe Boutros
+
+#### Failover
+also :cake:
+
+#### Speakers
+ - Kenneth Reitz - Flasky Goodness
+ - Cody Soyland - Something About gevent (possibly)
+
+#### Sponsor
+:cake:
