@@ -97,7 +97,7 @@ also :cake:
 
 #### Speakers
  - Kenneth Reitz - Flasky Goodness
- - Cody Soyland - Something About gevent (possibly)
+ - Cody Soyland - Gevent For Unblown Minds
 
 #### Sponsor
 :cake:
