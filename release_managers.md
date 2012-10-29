@@ -101,3 +101,17 @@ also :cake:
 
 #### Sponsor
 Indeed
+
+November
+-------
+#### Release Manager
+:cake:
+
+#### Failover
+:cake:
+
+#### Speakers
+ :cake:
+
+#### Sponsor
+:cake:
