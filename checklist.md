@@ -1,0 +1,19 @@
+- [ ] Who is release manager: **day after meetup**
+- [ ] Speaker or event planned: **two weeks before** (go over speaker guidelines)
+- [ ] Sponsor on board: **two weeks before** (May come with speaker) (go over sponsor guidelines)
+- [ ] Blurb from sponsor for announcement: **two weeks before**
+- [ ] Confim big room with capital factory: **two weeks before**
+- [ ] Send meetup announcement: **11 days out on Monday**
+- [ ] Send tweet and post on Facebook: **11 days out**
+- [ ] Confirm with speaker: **7 days out**
+- [ ] Confirm with sponsor: **7 days out**
+- [ ] Send meetup follow up: **4 days out (Monday)**
+- [ ] Tweet and Facebook: **4 days out (Monday)**
+- [ ] Determine food order: **4 days out** (see breakdown sheet)
+- [ ] Obtain cooler: **4 days out**
+- [ ] Last call for announcements from organizers: **morning of**
+- [ ] Send tweet/Facebook/req for RT: **morning of**
+- [ ] Obtain food & beer: **afternoon of**
+- [ ] Take at least at least one pic: **during**
+- [ ] Count attendees: **during**
+- [ ] Send rundown email: **next day**
