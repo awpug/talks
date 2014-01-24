@@ -13,9 +13,9 @@ Python, Haskell, erlang, revenue generating startup, techstars
  - django-nonrel
  - ORMs and large numpy arrays
  
- **Joe Boutros**
+**Joe Boutros**
  
- Basic tornado - async fun and ioloop
+Basic tornado - async fun and ioloop
  
  
 ###Confirmed
