@@ -16,8 +16,13 @@ We typically have between 30-60 attendees. Of course, you're welcome to come to 
 
 Potential Speakers
 -------------------
-- Joaquin Casares (DataStax, all kinds of Cassandra info)
-- Tyler Hobbs (DataStax, Pycassa, twisted, lots of other random bits)
+- Parnell Springmeyer mentioned he might be ble to do the March talk focusing on his experience using Python at his startup.
+- Bryce Hendrix has indicated interest in giving a future talk (maybe April?). He suggested a number of topics:
+ * Django 1.7
+ * micro-thread frameworks in Django/flask/etc
+ * websockets with Django
+ * django-nonrel
+ * ORMs and large numpy arrays
 
 
 Potential Sponsors
