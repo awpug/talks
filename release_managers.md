@@ -24,94 +24,43 @@ Ideal Schedule
 
 **9:00:** Beer
 
-Release Manager Signups
+2014 Release Manager Signups
 =======================
+February
+### Release Manager
+Aaron Pigeon
+
+### Speakers
+Tyler Hobbs
+
+### Sponsor
+Indeed.com
+
+-------
 March
------
 #### Release Manager
-Travis Swicegood
+:cake:
 
 #### Speakers
-  - Peter Wang (PyCon recap)
-  - Robert Myers (Google App Engine)
-  - Travis Swicegood (Django beginner series: models)
+:cake:
 
 #### Sponsor
-[Key Ingredient](http://keyingredient.com) (contact Robert Myers)
+:cake:
 
-
+-------
 April
------
-#### Release Manager
-Joe Boutros
-
-#### Failover
-Ben Weatherman
-
+-------
 May
----
-#### Release Manager
-Ben Weatherman
-
-#### Failover
-Jeremy Boyd
-
-#### Speakers
-  - Craig Vyvial [OpenStack-based database as a service](https://github.com/rackspace/reddwarf)
-  - ???? :cake:
-
-#### Sponsor
-[Rackspace](http://rackspace.com)
-
+-------
 June
-----
-#### Release Manager
-Jeremy Boyd
-
-#### Failover
-Robert Myers
-
+-------
 July
-----
-#### Release Manager
-Robert Myers
-
-#### Failover
-Josh Marshall
-
+-------
 August
-------
-#### Release Manager
-Josh Marshall
-
-#### Failover
-???? :cake:
-
+-------
 October
 -------
-#### Release Manager
-Joe Boutros
-
-#### Failover
-also :cake:
-
-#### Speakers
- - Kenneth Reitz - Flasky Goodness
- - ~~Cody Soyland - Something About gevent (possibly)~~
-
-#### Sponsor
-Indeed
-
 November
 -------
-#### Release Manager
-:cake:
-
-#### Failover
-:cake:
-
-#### Speakers
- :cake:
-
-#### Sponsor
-:cake:
+December
+-------
