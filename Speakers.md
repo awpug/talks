@@ -20,4 +20,11 @@ Basic tornado - async fun and ioloop
  
 ###Confirmed
 
-**Feb:**
+**Feb:** Tyler Hobbs: Intro to Cassandra python driver, using Twissandra in Django.
+https://github.com/datastax/python-driver
+https://github.com/twissandra/twissandra
+
+###Maybe
+**March:** Parnell Springmeyer?
+
+**April:** Bryce Hendrix?
