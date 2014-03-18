@@ -29,4 +29,3 @@ Potential Sponsors
 ------------------
 - Brad Wiemerslage (Co-founder & CTO of Stormpulse, contacted Ben)
 - Keith Bray (Senior Manager, Software Development, Rackspace, contacted Ben)
-- Jeremy Kelley (Snoball, contacted Josh)
