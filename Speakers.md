@@ -1,28 +1,27 @@
 ###Indicated interest
 (contact info redacted, available on list)
+####Talks
 
-**Parnell:**
-
-Python, Haskell, erlang, revenue generating startup, techstars
-
-**Bryce Hendrix:**
-
- - Has anyone used Django 1.7 yet? Are there difficulties in transitioning from South to the built-in migrations?
- - micro-thread frameworks in Django/flask/etc
- - websockets with Django
- - django-nonrel
- - ORMs and large numpy arrays
+####Sponsors
  
-**Joe Boutros**
- 
-Basic tornado - async fun and ioloop
- 
- 
-###Confirmed
+###By Month
 
-**Feb:** Tyler Hobbs: Intro to Cassandra python driver, using Twissandra in Django.
-https://github.com/datastax/python-driver
-https://github.com/twissandra/twissandra
+####April
+**Talk:** Confirmed: Matthew Planchard: Custom package distribution with pypiserver
+**Host:** Confirmed: Eric Adams
+**Sponsor:** Still open
+
+####May
+**Talk:** Maybe: Paul McGuire: Python Pyparsing library
+**Host:** Confirmed: Eric Adams
+**Sponsor:** Still open
+
+####June
+**Talk:** Still Open
+**Host:** Confirmed: Josh Marshall
+**Sponsor:** Still open
+
+**May:** 
 
 ###Maybe
 **March:** Parnell Springmeyer?
