@@ -1,7 +1,8 @@
 ###Indicated interest
 (contact info redacted, available on list)
 ####Talks
-
+**Jacob Barhak:** StarCluster
+**Zach Jordan & Sandeep Parikh:** Google Cloud Platform (they both work on that team at Google)
 ####Sponsors
  
 ###By Month
@@ -21,9 +22,7 @@
 **Host:** Confirmed: Josh Marshall
 **Sponsor:** Still open
 
-**May:** 
-
-###Maybe
-**March:** Parnell Springmeyer?
-
-**April:** Bryce Hendrix?
+####July
+**Talk:** Still Open
+**Host:** Confirmed: Josh Marshall
+**Sponsor:** Still open
