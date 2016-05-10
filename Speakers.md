@@ -3,6 +3,9 @@
 ####Talks
 **Jacob Barhak:** StarCluster
 **Zach Jordan & Sandeep Parikh:** Google Cloud Platform (they both work on that team at Google)
+**Tipton Cole:** MarkMemory
+**Sean Brant:** Django 1.4.x -> 1.8.x (short talk)
+
 ####Sponsors
  
 ###By Month
@@ -13,7 +16,7 @@
 **Sponsor:** Still open
 
 ####May
-**Talk:** Maybe: Paul McGuire: Python Pyparsing library
+**Talk:** Jacob Barhak/StarCluster confirmed, possibly Tipton Cole for a second talk
 **Host:** Confirmed: Eric Adams
 **Sponsor:** Still open
 
